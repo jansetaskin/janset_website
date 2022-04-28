@@ -17,14 +17,13 @@
     <loc>localhost/tags/untagged/</loc>
     <lastmod>2022-04-28T15:30:06-04:00</lastmod>
   </url><url>
-    <loc>localhost/about/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>localhost/experience/</loc>
     <priority>0</priority>
   </url><url>
     <loc>localhost/projects/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>localhost/about/</loc>
   </url><url>
     <loc>localhost/categories/</loc>
   </url><url>
