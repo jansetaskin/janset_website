@@ -2,23 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jansetaskin.github.io/janset_website/posts/examplepost/</loc>
+    <loc>localhost/posts/examplepost/</loc>
     <lastmod>2022-04-28T15:30:06-04:00</lastmod>
   </url><url>
-    <loc>https://jansetaskin.github.io/janset_website/</loc>
+    <loc>localhost/</loc>
     <lastmod>2022-04-28T15:30:06-04:00</lastmod>
   </url><url>
-    <loc>https://jansetaskin.github.io/janset_website/posts/</loc>
+    <loc>localhost/posts/</loc>
     <lastmod>2022-04-28T15:30:06-04:00</lastmod>
   </url><url>
-    <loc>https://jansetaskin.github.io/janset_website/tags/</loc>
+    <loc>localhost/tags/</loc>
     <lastmod>2022-04-28T15:30:06-04:00</lastmod>
   </url><url>
-    <loc>https://jansetaskin.github.io/janset_website/tags/untagged/</loc>
+    <loc>localhost/tags/untagged/</loc>
     <lastmod>2022-04-28T15:30:06-04:00</lastmod>
   </url><url>
-    <loc>https://jansetaskin.github.io/janset_website/categories/</loc>
+    <loc>localhost/about/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://jansetaskin.github.io/janset_website/series/</loc>
+    <loc>localhost/experience/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>localhost/projects/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>localhost/categories/</loc>
+  </url><url>
+    <loc>localhost/series/</loc>
   </url>
 </urlset>

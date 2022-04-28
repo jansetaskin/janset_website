@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>untagged on Hi, it&#39;s Janset.</title>
-    <link>https://jansetaskin.github.io/janset_website/tags/untagged/</link>
+    <link>localhost/tags/untagged/</link>
     <description>Recent content in untagged on Hi, it&#39;s Janset.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 28 Apr 2022 15:30:06 -0400</lastBuildDate><atom:link href="https://jansetaskin.github.io/janset_website/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 15:30:06 -0400</lastBuildDate><atom:link href="localhost/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Examplepost</title>
-      <link>https://jansetaskin.github.io/janset_website/posts/examplepost/</link>
+      <link>localhost/posts/examplepost/</link>
       <pubDate>Thu, 28 Apr 2022 15:30:06 -0400</pubDate>
       
-      <guid>https://jansetaskin.github.io/janset_website/posts/examplepost/</guid>
+      <guid>localhost/posts/examplepost/</guid>
       <description>Hello</description>
     </item>
     

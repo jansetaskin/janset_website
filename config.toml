@@ -1,4 +1,5 @@
-baseurl      = "https://jansetaskin.github.io/janset_website/"
+baseurl      = "localhost"
+# https://jansetaskin.github.io/janset_website/
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -60,10 +61,10 @@ publishDir = "docs"
     name       = "/projects"
     url        = "/projects"
 
-  [[menu.main]]
-    identifier = "blog"
-    name       = "/blog"
-    url        = "/posts"
+  # [[menu.main]]
+   # identifier = "blog"
+   # name       = "/blog"
+   # url        = "/posts"
 
   [[menu.main]]
     identifier = "experience"

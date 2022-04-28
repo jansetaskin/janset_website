@@ -2,19 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi, it&#39;s Janset.</title>
-    <link>https://jansetaskin.github.io/janset_website/</link>
+    <link>localhost/</link>
     <description>Recent content on Hi, it&#39;s Janset.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 28 Apr 2022 15:30:06 -0400</lastBuildDate><atom:link href="https://jansetaskin.github.io/janset_website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 15:30:06 -0400</lastBuildDate><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Examplepost</title>
-      <link>https://jansetaskin.github.io/janset_website/posts/examplepost/</link>
+      <link>localhost/posts/examplepost/</link>
       <pubDate>Thu, 28 Apr 2022 15:30:06 -0400</pubDate>
       
-      <guid>https://jansetaskin.github.io/janset_website/posts/examplepost/</guid>
+      <guid>localhost/posts/examplepost/</guid>
       <description>Hello</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>localhost/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/about/</guid>
+      <description>About Me Hey there, I&amp;rsquo;m Janset Askin. I&amp;rsquo;m a Data Scientist with an interest in machine learning engineering and ethical AI. I have experience with full-stack data science work including data extraction, explanatory data analysis, feature engineering, model development and validation, and model deployment using MLOps principles.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>localhost/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/experience/</guid>
+      <description>Janset Askin Technical Skills  Programming: Python, R Data Science: SQL, Git, Tableau, pandas, NumPy, matplotlib, scikit-learn, pytest, Plotly, Dash Development: Flask, Postman, Jenkins, Docker, AWS (S3, EC2, CloudWatch) CLI, Shell Scripting, HTML, CSS, Bootstrap, code profiling Machine Learning: Natural Language Processing, Linear/Logistic Regression, Random Forest, K-Means, Naive Bayes, PCA, SVM, XGBoost, LightGBM, CatBoost, Multi-Class Classification, Imbalanced Data   Work Experience Data Scientist, Progressive Insurance June 2021 - Present</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>localhost/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/projects/</guid>
+      <description>Projects Coming soon </description>
     </item>
     
   </channel>
