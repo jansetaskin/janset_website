@@ -41,7 +41,7 @@ publishDir = "docs"
     [languages.en.params.logo]
       logoText = "janset askin"
       logoHomeLink = "/"
-      logoMark = ">"
+      logoMark = "!"
       logoCursorColor    = "#a791b3"
       # "#959e60"
     # or
