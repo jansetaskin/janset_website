@@ -1,10 +1,12 @@
-# Janset Askin
+---
+type: "page"
+---
 
 ## Technical Skills
 - **Programming**: Python, R
 - **Data Science**: SQL, Git, Tableau, pandas, NumPy, matplotlib, scikit-learn, pytest, Plotly, Dash
 - **Development**: Flask, Postman, Jenkins, Docker, AWS (S3, EC2, CloudWatch) CLI, Shell Scripting, HTML, CSS, Bootstrap, code profiling
-- **Machine Learning**: Natural Language Processing, Linear/Logistic Regression, Random Forest, K-Means, Naive Bayes, PCA, SVM, XGBoost, LightGBM, CatBoost, Multi-Class Classification, Imbalanced Data
+- **Machine Learning**: Natural Language Processing, Linear/Logistic Regression, Random Forest, K-Means, Naive Bayes, PCA, SVM, GBM, Multi-Class Classification, Imbalanced Data
 ----------
 
 ## Work Experience

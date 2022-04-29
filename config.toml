@@ -32,7 +32,7 @@ publishDir = "docs"
 
 [languages]
   [languages.en]
-    title = "Hi, it's Janset."
+    title = "Janset Askin"
     subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
@@ -41,7 +41,7 @@ publishDir = "docs"
     [languages.en.params.logo]
       logoText = "janset askin"
       logoHomeLink = "/"
-      logoMark = "!"
+      logoMark = ">"
       logoCursorColor    = "#a791b3"
       # "#959e60"
     # or
@@ -52,22 +52,22 @@ publishDir = "docs"
   # And you can even create generic menu
   [[menu.main]]
     identifier = "about"
-    name       = "/about"
+    name       = "about"
     url        = "/about"
 
   [[menu.main]]
     identifier = "projects"
-    name       = "/projects"
+    name       = "projects"
     url        = "/projects"
 
   # [[menu.main]]
    # identifier = "blog"
-   # name       = "/blog"
+   # name       = "blog"
    # url        = "/posts"
 
   [[menu.main]]
     identifier = "experience"
-    name       = "/experience"
+    name       = "experience"
     url        = "/experience"
 
   [[params.social]]
@@ -86,10 +86,10 @@ publishDir = "docs"
     name = "medium"
     url  = "https://medium.com/@jansetaskin"
 
-  # [params.portrait]
-    # path     = "static/me.png"
-    # alt      = "Portrait"
-    # maxWidth = "150px"
+  [params.portrait]
+    path     = "/me.png"
+    alt      = "Portrait"
+    maxWidth = "150px"
 
  [params.footer]
     trademark = false
