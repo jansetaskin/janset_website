@@ -87,7 +87,7 @@ publishDir = "docs"
     url  = "https://medium.com/@jansetaskin"
 
   [params.portrait]
-    path     = "/me.png"
+    path     = "docs/me.png"
     alt      = "Portrait"
     maxWidth = "150px"
 
