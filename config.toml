@@ -53,12 +53,12 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "about"
     name       = "about"
-    url        = "/about"
+    url        = "pages/about"
 
   [[menu.main]]
     identifier = "projects"
     name       = "projects"
-    url        = "/projects"
+    url        = "pages/projects"
 
   # [[menu.main]]
    # identifier = "blog"
@@ -68,7 +68,7 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "experience"
     name       = "experience"
-    url        = "/experience"
+    url        = "pages/experience"
 
   [[params.social]]
     name = "linkedin"
