@@ -40,7 +40,7 @@ publishDir = "docs"
 
     [languages.en.params.logo]
       logoText = "janset askin"
-      logoHomeLink = "/"
+      logoHomeLink = "/janset_website/"
       logoMark = ">"
       logoCursorColor    = "#a791b3"
       # "#959e60"
@@ -55,20 +55,20 @@ publishDir = "docs"
     name       = "about"
     url        = "about.html"
 
-  # [[menu.main]]
-  #   identifier = "projects"
-  #   name       = "projects"
-  #   url        = "/projects"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "projects"
+    url        = "projects.html"
 
   # [[menu.main]]
    # identifier = "blog"
    # name       = "blog"
    # url        = "/posts"
 
-  # [[menu.main]]
-  #   identifier = "experience"
-  #   name       = "experience"
-  #   url        = "/experience"
+  [[menu.main]]
+    identifier = "experience"
+    name       = "experience"
+    url        = "experience.html"
 
   [[params.social]]
     name = "linkedin"
