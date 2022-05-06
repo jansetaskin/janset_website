@@ -86,10 +86,10 @@ publishDir = "docs"
     name = "medium"
     url  = "https://medium.com/@jansetaskin"
 
-  [params.portrait]
-    path     = "docs/me.png"
-    alt      = "Portrait"
-    maxWidth = "150px"
+  # [params.portrait]
+  #   path     = "image/me.png"
+  #   alt      = "Portrait"
+  #   maxWidth = "150px"
 
  [params.footer]
     trademark = false
