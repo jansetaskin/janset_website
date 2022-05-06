@@ -32,8 +32,8 @@ publishDir = "docs"
 
 [languages]
   [languages.en]
-    title = "Janset Askin"
-    subtitle = "A simple theme for Hugo"
+    title = "Janset Aşkın"
+    # subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -86,10 +86,10 @@ publishDir = "docs"
     name = "medium"
     url  = "https://medium.com/@jansetaskin"
 
-  # [params.portrait]
-  #   path     = "image/me.png"
-  #   alt      = "Portrait"
-  #   maxWidth = "150px"
+  [params.portrait]
+    path     = "/image/me.jpg"
+    alt      = "Portrait"
+    maxWidth = "165px"
 
  [params.footer]
     trademark = false
