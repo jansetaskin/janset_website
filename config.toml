@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 baseurl      = "https://jansetaskin.github.io/"
-=======
-baseurl      = "https://jansetaskin.github.io/"
->>>>>>> d2d62e9bcc2f9904264e715369006ea857edf536
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
