@@ -41,7 +41,11 @@ publishDir = "docs"
     [languages.en.params.logo]
       logoText = "janset askin"
 <<<<<<< HEAD
+<<<<<<< HEAD
       logoHomeLink = "https://jansetaskin.github.io"
+=======
+      logoHomeLink = "https://jansetaskin.github.io/"
+>>>>>>> d2d62e9bcc2f9904264e715369006ea857edf536
 =======
       logoHomeLink = "https://jansetaskin.github.io/"
 >>>>>>> d2d62e9bcc2f9904264e715369006ea857edf536
