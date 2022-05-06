@@ -1,4 +1,4 @@
-baseurl      = "https://jansetaskin.github.io/"
+baseurl      = "https://jansetaskin.me/"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -40,7 +40,7 @@ publishDir = "docs"
 
     [languages.en.params.logo]
       logoText = "janset askin"
-      logoHomeLink = "https://jansetaskin.github.io/"
+      logoHomeLink = "https://jansetaskin.me/"
       logoMark = ">"
       logoCursorColor    = "#a791b3"
       # "#959e60"
