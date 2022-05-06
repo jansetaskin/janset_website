@@ -46,7 +46,7 @@ publishDir = "docs"
       # "#959e60"
     # or
     #
-    # path = "/img/your-example-logo.svg"
+    # path = "/static/image/pomegranate.svg"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
