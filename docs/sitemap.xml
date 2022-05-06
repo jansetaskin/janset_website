@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jansetaskin.github.io/janset_website/posts/examplepost/</loc>
+    <loc>https://jansetaskin.github.io/posts/examplepost/</loc>
     <lastmod>2022-04-28T15:30:06-04:00</lastmod>
   </url><url>
-    <loc>https://jansetaskin.github.io/janset_website/</loc>
+    <loc>https://jansetaskin.github.io/</loc>
     <lastmod>2022-04-28T15:30:06-04:00</lastmod>
   </url><url>
-    <loc>https://jansetaskin.github.io/janset_website/posts/</loc>
+    <loc>https://jansetaskin.github.io/posts/</loc>
     <lastmod>2022-04-28T15:30:06-04:00</lastmod>
   </url><url>
-    <loc>https://jansetaskin.github.io/janset_website/tags/</loc>
+    <loc>https://jansetaskin.github.io/tags/</loc>
     <lastmod>2022-04-28T15:30:06-04:00</lastmod>
   </url><url>
-    <loc>https://jansetaskin.github.io/janset_website/tags/untagged/</loc>
+    <loc>https://jansetaskin.github.io/tags/untagged/</loc>
     <lastmod>2022-04-28T15:30:06-04:00</lastmod>
   </url><url>
-    <loc>https://jansetaskin.github.io/janset_website/categories/</loc>
+    <loc>https://jansetaskin.github.io/categories/</loc>
   </url><url>
-    <loc>https://jansetaskin.github.io/janset_website/series/</loc>
+    <loc>https://jansetaskin.github.io/series/</loc>
   </url>
 </urlset>
