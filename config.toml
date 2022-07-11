@@ -1,5 +1,5 @@
 baseurl      = "https://jansetaskin.me/"
-title        = "My Blog"
+title        = ""
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -21,8 +21,8 @@ publishDir = "docs"
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
+  # description = "My new homepage or blog"
+  # keywords = "homepage, blog"
   images = [""]
 
 [taxonomies]
@@ -98,6 +98,6 @@ publishDir = "docs"
     author = false
 
     topText = []
-    bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
-    ]
+    # bottomText = [
+    # "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+    # ]
