@@ -70,6 +70,11 @@ publishDir = "docs"
     name       = "experience"
     url        = "experience.html"
 
+  [[menu.main]]
+    identifier = "film photography"
+    name       = "film photography"
+    url        = "filmphotography.html"
+
   [[params.social]]
     name = "linkedin"
     url = "https://linkedin.com/in/janset-askin/"
