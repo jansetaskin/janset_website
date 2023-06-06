@@ -1,4 +1,4 @@
-baseurl      = "https://jansetaskin.me/"
+baseurl      = "https://jansetaskin.com/"
 title        = ""
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -40,7 +40,7 @@ publishDir = "docs"
 
     [languages.en.params.logo]
       logoText = "janset askin"
-      logoHomeLink = "https://jansetaskin.me/"
+      logoHomeLink = "https://jansetaskin.com/"
       logoMark = ">"
       logoCursorColor    = "#a791b3"
       # "#959e60"
